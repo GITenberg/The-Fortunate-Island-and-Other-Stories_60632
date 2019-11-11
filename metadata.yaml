@@ -1,0 +1,30 @@
+_repo: The-Fortunate-Island-and-Other-Stories_60632
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clark, Charles Heber
+    alias: Adeler, Max
+    birthdate: 1841
+    deathdate: 1915
+    gutenberg_agent_id: '4438'
+    url: http://www.gutenberg.org/2009/agents/4438
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Heber_Clark
+description: ''
+gutenberg_issued: '2019-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60632'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'Shipwrecks -- Fiction'
+- !lcsh 'Castaways -- Fiction'
+- GITenberg
+tableOfContents: The Fortunate Island -- The city of Burlesque -- An old fogy -- Major
+  Dunwoody's leg -- Jinnie.
+title: The Fortunate Island, and Other Stories
+url: http://www.gutenberg.org/ebooks/60632
